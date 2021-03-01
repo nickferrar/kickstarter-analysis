@@ -1,3 +1,7 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
-When dealing with musicals in Great Britain, the median goal is an outlier in the pledged donations so we should be pursuing projects within the median goal of about 2000. The data is heavily skewed right so the median goal is generally the better indicator of a project's success. Also, when working with musicals, a lot of failed projects have high goals and low pledges which might suggest people aren't willing to invest in a huge project so we should keep our projects a little more modest. 
+## Module 1 Challenge
+### Performing analysis on Kickstarter data to uncover trends
+#### Overview of Project:
+Using analysis of *Kickstarter* projects under various entertainment categories such as movies, plays, musicals, journalism, food among others we are trying to visualize and explain which *Kickstarter* projects are successful based on their launch dates and their funding goals. 
+## Theater Outcomes By Launch Date Conclusions
+When looking at Theater Outcomes vs Launch Date, the most successful launch times are in May, June and July so it would be best if we try to set our launch month in late Spring or Early Summer. It should also be noted that the dates that end in failure are pretty static across all of the months. This can be seen with the following graph: (
