@@ -5,7 +5,7 @@
 Using analysis of *Kickstarter* projects under various entertainment categories such as movies, plays, musicals, journalism, food among others we are trying to visualize and explain which *Kickstarter* projects are successful based on their launch dates and their funding goals. 
 ## Theater Outcomes By Launch Date Conclusions
 This graph analyzes whether the *Kickstarter* project was successful or not based on the date that the project is expected to launch. 
-When looking at Theater Outcomes vs Launch Date, the most successful launch times are in May, June and July so it would be best if we try to set our launch month in late Spring or Early Summer. It should also be noted that the dates that end in failure are pretty static across all of the months. This can be seen with the following [graph]: (kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+When looking at Theater Outcomes vs Launch Date, the most successful launch times are in May, June and July so it would be best if we try to set our launch month in late Spring or Early Summer. It should also be noted that the dates that end in failure are pretty static across all of the months. This can be seen with the following [graph](https://github.com/nickferrar/kickstarter-analysis/blob/52fb6e8c158c8612a344551844f223a1bae611f9/Theater_Outcomes_vs_Launch.png)
 
 ## Outcomes Based On Goals
 This graph analyzes whether the *Kickstarter* project was successful or not based on its inital goal.
