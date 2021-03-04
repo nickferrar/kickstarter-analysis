@@ -1,7 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 ## Module 1 Challenge
 ### Performing analysis on Kickstarter data to uncover trends
-#### Overview of Project:
+
+### Overview of Project:
 Using analysis of *Kickstarter* projects under various entertainment categories such as movies, plays, musicals, journalism, food among others we are trying to visualize and explain which *Kickstarter* projects are successful based on their launch dates and their funding goals. 
 ### Theater Outcomes By Launch Date Conclusions
 This graph analyzes whether the *Kickstarter* project was successful or not based on the date that the project is expected to launch. 
